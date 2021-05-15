@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Calculation of Air Quality Index in New Delhi
+description: In this blog we are going to discuss the calculation of Air Quality Index. We will then use these calculations to get the Air Quality Index of the State of New Delhi (India).
 github_username: Siddiquisuhail
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "delhi_aqi"
